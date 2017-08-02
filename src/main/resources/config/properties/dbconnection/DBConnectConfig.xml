@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Connect 정보</comment>
+
+<!-- Common Code Definition -->
+<!-- DEV  -->
+
+<entry key="driverClassName.local">com.microsoft.sqlserver.jdbc.SQLServerDriver</entry>
+<entry key="url.local">jdbc:sqlserver://182.162.91.23:1433;DatabaseName=BIZPP_DEV</entry>
+<entry key="username.local">bizppdev</entry>
+<entry key="password.local">bizppmaster</entry>
+
+
+<entry key="driverClassName.dev">com.microsoft.sqlserver.jdbc.SQLServerDriver</entry>
+<entry key="url.dev">jdbc:sqlserver://182.162.91.23:1433;DatabaseName=BIZPP_DEV</entry>
+<entry key="username.dev">bizppdev</entry>
+<entry key="password.dev">bizppmaster</entry>
+
+
+<entry key="driverClassName.stg">com.microsoft.sqlserver.jdbc.SQLServerDriver</entry>
+<entry key="url.stg">jdbc:sqlserver://182.162.91.23:1433;DatabaseName=BIZPP</entry>
+<entry key="username.stg">bizpp</entry>
+<entry key="password.stg">bizpeople2015)(*</entry>
+
+ 
+<entry key="driverClassName.real">com.microsoft.sqlserver.jdbc.SQLServerDriver</entry>
+<entry key="url.real">jdbc:sqlserver://182.162.91.23:1433;DatabaseName=BIZPP</entry>
+<entry key="username.real">bizpp</entry>
+<entry key="password.real">bizpeople2015)(*</entry>
+
+ 
+</properties>
